@@ -1,0 +1,3 @@
+[build]
+    # Functions တွေရှိတဲ့ folder ကို သတ်မှတ်ခြင်း
+    functions = "netlify/functions"
