@@ -1,1 +1,13 @@
-
+{
+  "name": "telegram-gemini-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot using Gemini API deployed on Vercel.",
+  "main": "api/webhook.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0",
+    "@google/genai": "^0.15.0"
+  }
+}
